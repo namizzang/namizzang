@@ -6,10 +6,15 @@
   <a href="[https://www.instagram.com/h4un_222/](https://www.facebook.com/profile.php?id=100002628678616)"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 </p>
 
-<p align="center">📝Email📝</p>
+**<p align="center">📝Email📝</p>**
 <p align="center">wiwi154@naver.com</p>
+<br>
+<p align="center">
+  ~~~~~~~
+</p>
+<br>
 
-<p align="center">⚒Tech Stack⚒</p>
+**<p align="center">⚒Tech Stack⚒</p>**
 <p align="center">💡Used as the main</p>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
@@ -21,5 +26,11 @@
 </p>
 <br/>
 
-<p align="center">💡Used at least ones</p>
+<p align="center">💡Design Tool</p>
+<p align="center">
+    
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=Adobe%20XD&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 
+</p>
