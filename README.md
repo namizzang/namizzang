@@ -3,6 +3,7 @@
 <p align="center">📝Email📝</p>
 <p align="center">⚒Tech Stack⚒</p>
 <p align="center">💡Used as the main</p>
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 <p align="center">⚒Tech Stack⚒</p>
 <p align="center">💡Used at least ones</p>
-<a href="www.naver.com">asdasd</a>
+
