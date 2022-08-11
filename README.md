@@ -1,9 +1,25 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=red&desc=Cho%20Hyun%20Nam%20Profile&height=200&section=header&fontColor=cccccc&fontAlignY=30&text=Cho%20Hyun%20Nam&descAlignY=70&descAlign=60&fontSize=90" />
-<p align="center">📫SNS List📫</p>
+
+**<p align="center">📫SNS List📫</p>**
+<p align="center">
+  <a href="https://www.instagram.com/h4un_222/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="[https://www.instagram.com/h4un_222/](https://www.facebook.com/profile.php?id=100002628678616)"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+</p>
+
 <p align="center">📝Email📝</p>
+<p align="center">wiwi154@naver.com</p>
+
 <p align="center">⚒Tech Stack⚒</p>
 <p align="center">💡Used as the main</p>
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-<p align="center">⚒Tech Stack⚒</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/phpMyAdmin-777BB4?style=flat-square&logo=phpMyAdmin&logoColor=white"/></a>
+</p>
+<br/>
+
 <p align="center">💡Used at least ones</p>
 
